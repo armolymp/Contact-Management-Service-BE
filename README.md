@@ -37,7 +37,10 @@ mvn clean install
 mvn spring-boot:run
 ```
 
-## POSTMAN COLLECTION - https://api.postman.com/collections/20449299-ca2eecb7-a12c-4d9a-807a-53d5924ffe3b?access_key=PMAT-01JDA4E8H84X51TVKSKVGEHXDF
+KEY = PMAT-01JDA4E8H84X51TVKSKVGEHXDF
+
+## POSTMAN COLLECTION - https://api.postman.com/collections/20449299-ca2eecb7-a12c-4d9a-807a-53d5924ffe3b?access_key=<PLACEHOLDER_FOR_POSTMAN_KEY>
+
 ## API Endpoints
 
 The backend exposes the following **RESTful API endpoints** for managing contacts.
